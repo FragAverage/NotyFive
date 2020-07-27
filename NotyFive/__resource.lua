@@ -1,5 +1,5 @@
 -- Original pNotify by Nick78111 
--- FragAverage - Updated to Noty V3 and Implemented Outlaw Notification System
+-- FragAverage - Updated to Noty V3
 
 description "Advanced Notification Script using https://notifyjs.com/"
 
